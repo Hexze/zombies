@@ -1,0 +1,16 @@
+{
+  "name": "zombies",
+  "display_name": "Zombies",
+  "version": "0.1.0",
+  "description": "QOL features for Hypixel Zombies.",
+  "author": "Hexze",
+  "homepage": null,
+  "dependencies": [
+    {
+      "name": "hypixel-mod-api",
+      "version": "1.0.0",
+      "optional": false
+    }
+  ],
+  "min_starfish_version": null
+}
