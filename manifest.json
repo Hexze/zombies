@@ -1,0 +1,15 @@
+{
+  "name": "zombies",
+  "display_name": "Zombies",
+  "version": "1.0.0",
+  "description": "Quality of life features for Hypixel Zombies",
+  "homepage": null,
+  "dependencies": [
+    {
+      "name": "hypixel-mod-api",
+      "version": null,
+      "optional": false
+    }
+  ],
+  "min_starfish_version": null
+}
